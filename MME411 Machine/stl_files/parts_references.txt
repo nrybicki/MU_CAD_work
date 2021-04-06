@@ -1,0 +1,16 @@
+bearing:
+  - MSPB-16-OPN (Metric) Single Roller Pillow Block from PBC Linear(TM)
+  - https://www.pbclinear.com/Products/Round-Shaft-Technology/Roller-Pillow-Blocks/MSPB-Metric-Single-Roller-Pillow-Block
+
+belt:
+  - 8MXT-2240-36 Panther XT Belt from Carlisle Belts(R)
+  - https://www.carlislebelts.com/product/belts/synchronous-belts/pantherxt
+
+rail:
+  - 2 * SRAM-16-900SL (Metric) Linear Shafting Aluminum Support Rail System Assembly from PBC Linear(TM)
+  - 1 * SRAM-16-300SL (Metric) Linear Shafting Aluminum Support Rail System Assembly from PBC Linear(TM)
+  - https://www.pbclinear.com/Products/Round-Shaft-Technology/Linear-Shafting-Support-Rails/SRAM-Metric-Aluminum-Support-Rail-Shafting
+
+sprocket:
+  - 8MX32S36-1210 Taper Bushed MPC Sprocket from Carlisle Belts(R)
+  - https://www.carlislebelts.com/product/belts/sprockets-sheaves-bushings/sprockets

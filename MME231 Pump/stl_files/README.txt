@@ -1,0 +1,1 @@
+All files in here were designed by my team members and I, and I created these 3D CAD models. All except for the test_stand file which was provided by our professor to allow us to center and base the dimensions of the components on.
